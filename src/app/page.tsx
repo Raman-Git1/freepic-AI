@@ -17,7 +17,7 @@ export default function Home() {
           filter:"blur(0px)",
 
         }}
-        transition={{duration:0.45}} className="text-4xl sm:text-6xl fon-bold">
+        transition={{duration:0.55}} className="text-4xl sm:text-6xl fon-bold">
           FreePic
         </motion.h1>
         <motion.p initial={{
@@ -31,7 +31,7 @@ export default function Home() {
           filter:"blur(0px)",
 
         }}
-        transition={{duration:0.55 , delay: 0.45}}className="text-center">Generate Stunning images from text using AI models for FREE </motion.p>
+        transition={{duration:0.67 , delay: 0.55}}className="text-center">Generate Stunning images from text using AI models for FREE </motion.p>
       </div>
     </div>
   );
